@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Node js is awesome"
+    },
+    {
+      "id": "2",
+      "title": "JavaScript is cool"
+    },
+    {
+      "id": "3",
+      "title": "Software development"
+    },
+    {
+      "id": 1717403711331,
+      "title": "express js "
+    },
+    {
+      "id": 1717404046942,
+      "title": "react tutorial"
+    },
+    {
+      "id": 1717404056376,
+      "title": "react tutorial uu"
+    },
+    {
+      "id": 1717404116841,
+      "title": "react tutorial uujj"
+    },
+    {
+      "id": 1717404128192,
+      "title": "hhhhh"
+    }
+  ]
+}
